@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hey it Mak-D here ,
 
-<!--
-**Mak-D30/Mak-D30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Aspiring Ethical Hacker and Cybersecurity Enthusiast with hands-on experience in penetration testing labs, 
+network reconnaissance, and vulnerability assessment. Strong foundation in networking (CCNA-level 
+concepts) and practical exposure to Kali Linux tools. Passionate about identifying security weaknesses, 
+analyzing attack surfaces, and strengthening system defenses. Seeking an entry-level Ethical Hacking / 
+Cybersecurity Internship role.
+I am a passionate Ethical Hacker with a strong foundation in network security, vulnerability assessment, and 
+penetration testing. With hands-on experience in reconnaissance, system enumeration, and attack simulation 
+techniques, I focus on identifying security weaknesses before malicious actors can exploit them. My 
+background in technology and problem-solving enables me to analyze systems from an attacker’s perspective 
+while maintaining professional ethics and responsible disclosure standards. I am continuously improving my 
+practical skills through labs, real-world simulations, and cybersecurity research.
